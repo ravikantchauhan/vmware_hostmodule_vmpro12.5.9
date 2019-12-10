@@ -1,7 +1,7 @@
 I have tried approx all other solutions but nothing worked. But these steps worked for me on Ubuntu 18.04, VMware 12.5.9.
 
 
-git clone https://github.com/mkubecek/vmware-host-modules.git
+git clone https://github.com/ravikantchauhan/vmware_hostmodule_vmpro12.5.9.git
 cd vmware-host-modules
 git checkout workstation-12.5.9 (change it to your version. it's important)
 make && sudo make install
